@@ -11,5 +11,5 @@ public class NaturalNumberSecondWayNonTailRecursive {
        int answer =  fun(5);
         System.out.println(answer);
     }
-}
+}//theta n
 

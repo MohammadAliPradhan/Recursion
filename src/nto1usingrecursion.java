@@ -13,3 +13,5 @@ public class nto1usingrecursion {
         fun(5);
     }
 }
+//theta n
+//theta n

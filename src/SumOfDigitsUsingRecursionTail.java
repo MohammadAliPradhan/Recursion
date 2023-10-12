@@ -5,10 +5,10 @@ public class SumOfDigitsUsingRecursionTail {
         {
             return n;
         }
-        return n+fun(n-1);
+
     }
     public static void main(String[] args) {
-    int answer =     fun(3);
+    int answer =     fun(253);
         System.out.println(answer);
     }
 }
